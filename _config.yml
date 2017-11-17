@@ -1,12 +1,10 @@
 title: Ambrolla Photography
 description: Treasure your moments
-author: Yuliya (Ambrolla)
+author: Ambrolla
 
-# logo: /assets/img/logo.jpg
+logo: /assets/img/logo.jpg
 
-github: ambr0lla
-
-footer-links:
+social-links:
   dribbble:
   email: contact@ambrolla.com
   facebook: ambrolla.photo
@@ -25,10 +23,15 @@ footer-links:
 social:
   name: Yuliya
   links:
+    - https://twitter.com/ambrolla
+    - https://www.facebook.com/ambrolla.photo
+    - https://www.pinterest.com/ambrolla
+    - https://instagram.com/ambrolla.photo
 
 google_analytics: 
 
-# paginate: 5
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 excerpt_separator: <!--more-->
 
@@ -36,6 +39,11 @@ url: https://ambrolla.com
 baseurl: ""
 
 future: true
+
+collections:
+  photo_categories:
+    output: true
+    permalink: /:path/:name/
 
 defaults:
   - scope:
@@ -48,6 +56,13 @@ defaults:
       type: pages
     values:
       layout: page
+  - scope:
+      path: ""
+      type: photo_categories
+    values:
+      layout: category
+      image_width: 1920
+      image_height: 500
 
 timezone: America/New_York
 lang: en-US
@@ -62,12 +77,12 @@ plugins:
   - jekyll-gist
   - jekyll-avatar
   - jekyll-github-metadata
-  # - jekyll-remote-theme
+  - jekyll-remote-theme
 
 sass:
   style: compressed
 
-# remote_theme: ambr0lla/jekyll-theme-modern
+remote_theme: ambr0lla/jekyll-theme-modern
 
 exclude:
   - Gemfile
