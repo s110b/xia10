@@ -28,7 +28,7 @@ social:
     - https://www.pinterest.com/ambrolla
     - https://instagram.com/ambrolla.photo
 
-google_analytics: 
+google_analytics: UA-66941010-4
 
 paginate: 5
 paginate_path: "/blog/page:num/"
