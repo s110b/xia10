@@ -1,6 +1,6 @@
 ---
 title: People
 description:
-cover: IMG_8710_1sizing.jpg
+cover: IMG_8480_1sizing.jpg
 permalink: /:name/
 ---
