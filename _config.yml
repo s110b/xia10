@@ -1,9 +1,11 @@
 title: Ambrolla Photography
 slogan: Treasure your moments
 description: Washington DC, Maryland, and Virginia Photographer
-author: Ambrolla
+author: 
+  name: Ambrolla
+  twitter: ambrolla
 
-logo: /assets/img/logo.jpg
+logo: "/assets/img/logo.jpg"
 
 social-links:
   dribbble:
@@ -34,6 +36,9 @@ social:
 facebook:
   publisher: ambrolla.photo
 
+twitter:
+  username: ambrolla
+
 google_analytics: UA-66941010-4
 
 paginate: 5
@@ -53,12 +58,16 @@ collections:
 
 defaults:
   - scope:
-      path: ''
+      path: ""
+    values:
+      image: "/assets/img/meta_image.jpg"
+  - scope:
+      path: ""
       type: posts
     values:
       layout: post
   - scope:
-      path: ''
+      path: ""
       type: pages
     values:
       layout: page
@@ -75,8 +84,7 @@ lang: en-US
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-mentions
-  - jemoji
+#  - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-feed
