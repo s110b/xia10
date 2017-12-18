@@ -12,7 +12,8 @@ permalink: /rates/
 - 100 original digital photographs are guaranteed
 - 10 retouched digital photographs
 - Price: $110 per 45 minutes*
-- Schedule a photoshoot
+  
+[Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#contact)
 
 ---
 
@@ -20,21 +21,23 @@ permalink: /rates/
 - 150 original digital photographs are guaranteed
 - 15 retouched digital photographs
 - Price: $160 per 90 minutes*
-- Schedule a photoshoot
+  
+[Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#contact)
 
 ---
 
 #### Package 3 - with second photographer
 - 250 original digital photographs are guaranteed
-- 20 retouched digital photographs*
+- 20 retouched digital photographs
 - Price range: $250-500 per 90 minutes*
-- Schedule a photoshoot
+  
+[Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#contact)
 
 ---
 
 *\*6% Maryland tax is included in price*
 
-**Referred by someone? Let me know!**
+**Referred by someone? [Let me know!]({{ site.baseurl }}{% link contact.md %}#contact)**
 
 ---
 
@@ -46,4 +49,4 @@ In addition, I work with many people. You can also hire for a photoshoot:
 - Videographer - from $200 per hour
 - Studio rental - from $40 per hour
 
-> For each photoshoot you need to make a minimum deposit of $50 (depending on a type of a photoshoot) at least two weeks in advance to secure your spot. If you need a photoshoot less than two weeks, then use contact me form but prices or deposit might be subject to change. 
+> For each photoshoot you need to make a minimum deposit of $50 (depending on a type of a photoshoot) at least two weeks in advance to secure your spot. If you need a photoshoot less than two weeks, then use [contact me form]({{ site.baseurl }}{% link contact.md %}#contact) but prices or deposit might be subject to change. 
