@@ -4,38 +4,37 @@ title: Rates
 permalink: /rates/
 ---
 
-### Photography price packages
+### Photography price packages*
 
 ---
 
 #### Package 1
-- 100 original digital photographs are guaranteed
-- 10 retouched digital photographs
-- Price: $110 per 45 minutes*
+- 10 retouched digital photographs**
+- Price: $110 per 45 minutes***
   
 [Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#contact)
 
 ---
 
 #### Package 2
-- 150 original digital photographs are guaranteed
-- 15 retouched digital photographs
-- Price: $160 per 90 minutes*
+- 15 retouched digital photographs**
+- Price: $160 per 90 minutes***
   
 [Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#contact)
 
 ---
 
 #### Package 3 - with second photographer
-- 250 original digital photographs are guaranteed
-- 20 retouched digital photographs
-- Price range: $250-500 per 90 minutes*
+- 20 retouched digital photographs**
+- Price range: $250-500 per 90 minutes***
   
 [Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#contact)
 
 ---
 
-*\*6% Maryland tax is included in price*
+*\*Prices for food and event photography are different. Contact me for prices.*
+*\*\*Original photographs are available upon a request.*
+*\*\*\*6% Maryland tax is included in price*
 
 **Referred by someone? [Let me know!]({{ site.baseurl }}{% link contact.md %}#contact)**
 
