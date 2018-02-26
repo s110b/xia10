@@ -25,6 +25,8 @@ social-links:
 
 index_title: Portfolio
 
+covers: /assets/img/covers/
+
 social:
   name: Yuliya
   links:
@@ -78,6 +80,7 @@ defaults:
       layout: category
       image_width: 1920
       image_height: 500
+      cover: true
 
 timezone: America/New_York
 lang: en-US
