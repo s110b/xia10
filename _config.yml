@@ -91,7 +91,7 @@ lang: en-US
 
 plugins:
   - jekyll-seo-tag
-#  - jemoji
+  - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-feed
