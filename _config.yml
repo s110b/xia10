@@ -7,7 +7,7 @@ author:
 
 logo: "/assets/img/logo.jpg"
 
-blog_description: "Below are some of my recent photoshoots. Want to see more? Go to my facebook page or Instagram!"
+blog_description: "Below are some of my recent photoshoots. Want to see more? Go to my <a href=\"https://www.facebook.com/ambrolla.photo\">Facebook</a> page or <a href=\"https://instagram.com/ambrolla.photo\">Instagram</a>!"
 
 social-links:
   dribbble:
@@ -46,7 +46,7 @@ twitter:
 google_analytics: UA-66941010-4
 
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/page-:num/"
 
 permalink: pretty
 
