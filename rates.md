@@ -10,34 +10,37 @@ permalink: /rates/
 
 <div class="rates" markdown="1">
 
-<div markdown="1" style="break-inside: avoid; page-break-inside: avoid;">
+<div markdown="1" style="break-inside: avoid; page-break-inside: avoid; overflow: hidden;">
 #### Package 1
 - 10 retouched digital photographs**
 - Price: $110 per 45 minutes***
-  
+
 [Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#gform){:.w3-button.w3-round.w3-pale-red}
+{:style="text-align:center; vertical-align: bottom;"}
 </div>
 
 ---
 {:.hide-on-desktop}
 
-<div markdown="1" style="break-inside: avoid; page-break-inside: avoid;">
+<div markdown="1" style="break-inside: avoid; page-break-inside: avoid; overflow: hidden;">
 #### Package 2
 - 15 retouched digital photographs**
 - Price: $160 per 90 minutes***
-  
+
 [Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#gform){:.w3-button.w3-round.w3-pale-red}
+{:style="text-align:center; vertical-align: bottom;"}
 </div>
 
 ---
 {:.hide-on-desktop}
 
-<div markdown="1" style="break-inside: avoid; page-break-inside: avoid;">
+<div markdown="1" style="break-inside: avoid; page-break-inside: avoid; overflow: hidden;">
 #### Package 3 - with second photographer
 - 20 retouched digital photographs**
 - Price range: $250-500 per 90 minutes***
   
 [Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#gform){:.w3-button.w3-round.w3-pale-red}
+{:style="text-align:center; vertical-align: bottom;"}
 </div>
 
 </div>
