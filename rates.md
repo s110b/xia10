@@ -55,7 +55,7 @@ permalink: /rates/
 
 ---
 
-#### Other options
+### Other options
 You can also add an album, printed photographs, scrapbook, or a canvas for additional price. All prices vary and the range is from $150 to $500. For each client, there will be a custom design.
 Also, if you want to retouch additional photographs, each photo will cost $15. 
 In addition, I work with many people. You can also hire for a photoshoot: 
