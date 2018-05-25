@@ -13,7 +13,7 @@ permalink: /rates/
 <div markdown="1" style="break-inside: avoid; page-break-inside: avoid; overflow: hidden;">
 #### Package 1
 - 10 retouched digital photographs**
-- Price: $110 per 45 minutes***
+- Price: $160 per 45 minutes***
 
 [Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#gform){:.w3-button.w3-round.w3-pale-red}
 {:style="text-align:center; vertical-align: bottom;"}
@@ -25,7 +25,7 @@ permalink: /rates/
 <div markdown="1" style="break-inside: avoid; page-break-inside: avoid; overflow: hidden;">
 #### Package 2
 - 15 retouched digital photographs**
-- Price: $160 per 90 minutes***
+- Price: $210 per 90 minutes***
 
 [Schedule a photoshoot]({{ site.baseurl }}{% link contact.md %}#gform){:.w3-button.w3-round.w3-pale-red}
 {:style="text-align:center; vertical-align: bottom;"}
