@@ -1,6 +1,6 @@
 ---
 layput: post
-title: Family fun
+title: Family Fun
 date: 2018-08-01 01:00 -05:00
 category: 
 tags: []
