@@ -6,9 +6,9 @@ seo:
   type: person
 ---
 
-You can use this form [below]({{ page.url }}#gform) or send me an email to: [{{ site.social-links.email }}](mailto:{{ site.social-links.email }})
+You can use this form [below]({{ page.url }}#contact) or send me an email to: [{{ site.social-links.email }}](mailto:{{ site.social-links.email }})
 <br/>
-<form class="gform contact-form" action="https://script.google.com/macros/s/AKfycbyBhqS3oy0K6qYzFxR7XuKOY8FKglotc-kjtKEYu7fK4W0JpUhR/exec" method="POST">
+<form id="contact" class="gform contact-form" action="https://script.google.com/macros/s/AKfycbyBhqS3oy0K6qYzFxR7XuKOY8FKglotc-kjtKEYu7fK4W0JpUhR/exec" method="POST">
   <div class="form-elements">
     <input id="honeypot" type="text" name="honeypot" value="" />
     <input type="text" name="name" placeholder="Name" maxlength="50" required>
