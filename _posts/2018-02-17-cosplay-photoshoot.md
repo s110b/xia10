@@ -1,7 +1,7 @@
 ---
 layput: post
 title: Cosplay photoshoot
-date: 2018-02-17 01:00 -05:00
+date: 2018-02-17 01:00
 category: 
 tags: []
 ---

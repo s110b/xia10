@@ -1,7 +1,7 @@
 ---
 layput: post
 title: "Test Shoot"
-date: 2018-01-15 01:00 -05:00
+date: 2018-01-15 01:00
 category: 
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 layput: post
 title: "Maternity photoshoot"
-date: 2017-12-01 01:00 -05:00
+date: 2017-12-01 01:00
 category: 
 tags: []
 ---

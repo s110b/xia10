@@ -1,7 +1,7 @@
 ---
 layput: post
 title: "Friend Shoot"
-date: 2017-11-01 01:00 -05:00
+date: 2017-11-01 01:00
 category: 
 tags: []
 ---

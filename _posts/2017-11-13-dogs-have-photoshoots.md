@@ -1,7 +1,7 @@
 ---
 layput: post
 title: "Dogs have photoshoots as well"
-date: 2017-11-13 01:00 -05:00
+date: 2017-11-13 01:00
 category: 
 tags: []
 ---
