@@ -47,7 +47,7 @@ permalink: /rates/
 
 ---
 
-*\*Prices for food and event photography are different. [Contact me for prices]({{ site.baseurl }}{% link contact.md %}#contact).*  
+*\*Prices for newborn, food, and event photography are different. [Contact me for prices]({{ site.baseurl }}{% link contact.md %}#contact).*  
 *\*\*Original photographs are available upon a request.*  
 *\*\*\*6% Maryland tax is included in price*
 
