@@ -1,2 +1,2 @@
 # ambr0lla.github.io
-Ambrolla Photography website
+Ambrolla Photography website based on jekyll
