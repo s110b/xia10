@@ -10,7 +10,7 @@ You can use this form [below]({{ page.url }}#contact) or send me an email to: [{
 <br/>
 <form id="contact" class="gform contact-form" action="https://script.google.com/macros/s/AKfycbyBhqS3oy0K6qYzFxR7XuKOY8FKglotc-kjtKEYu7fK4W0JpUhR/exec" method="POST">
   <div class="form-elements">
-    <input id="honeypot" type="text" name="honeypot" value="" />
+    <input id="itsatrap" type="text" name="itsatrap" value="" />
     <input type="text" name="name" placeholder="Name" maxlength="50" required>
     <input type="email" name="email" placeholder="Email" maxlength="254" required>
     <input type="tel" name="telNo" placeholder="Phone number (optional)" maxlength="20">
