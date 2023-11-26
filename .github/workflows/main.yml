@@ -1,0 +1,23 @@
+name: Build and Deploy Jekyll Site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master  # 源代码所在的分支
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Build Jekyll Site
+        uses: actions/jekyll-build-pages@v1
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: pages  # 指定部署到的分支
